@@ -37,9 +37,11 @@ Develop a mobile or web application for wider use
 Inspired by open-source waste management projects
 Building AI course project
 
+![Waste Sorting](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyorkrecyclingservice.co.uk%2Fwhat-is-recycling%2F&psig=AOvVaw27n_24ZWWkff0BOah5qbib&ust=1740249323696000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCL8Ye01YsDFQAAAAAdAAAAABAJ)
+
+
 ```python
 def classify_waste(image):
-    # Basic classification logic here
+    #Basic classification logic would be input here
     return "recyclable"
 
-![Waste Sorting](https://www.google.com/url?sa=i&url=https%3A%2F%2Fyorkrecyclingservice.co.uk%2Fwhat-is-recycling%2F&psig=AOvVaw27n_24ZWWkff0BOah5qbib&ust=1740249323696000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCL8Ye01YsDFQAAAAAdAAAAABAJ)
