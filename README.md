@@ -6,17 +6,19 @@ MySimpleAI is a simple AI tool that classifies waste images into recyclable and 
 
 ## Background
 
-Waste sorting is often done manually, which can be inefficient and error-prone. MySimpleAI aims to improve recycling efficiency with a basic AI model.  
+Waste sorting is often done manually, leading to errors and inefficiencies. MySimpleAI uses a basic AI model to improve recycling accuracy.
 * Manual sorting errors  
 * Environmental impact
 
 ## How is it used?
 
-Users capture a photo of waste, and MySimpleAI quickly classifies it as recyclable or not. This solution can be integrated into recycling bins or mobile apps.
+Users take a photo of waste, and MySimpleAI quickly classifies it as recyclable or non-recyclable. This solution can be integrated into recycling bins or mobile apps for real-time sorting.
 
-![Waste Sorting](https://upload.wikimedia.org/wikipedia/commons/b/b0/Sorting_trash.jpg)
+![Waste Sorting](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Waste_recycling_%28cropped%29.jpg/320px-Waste_recycling_%28cropped%29.jpg)
 
 ```python
 def classify_waste(image):
     # Basic classification logic here
     return "recyclable"
+
+## Header
