@@ -14,8 +14,6 @@ Waste sorting is often done manually, leading to errors and inefficiencies. MySi
 
 Users take a photo of waste, and MySimpleAI quickly classifies it as recyclable or non-recyclable. This solution can be integrated into recycling bins or mobile apps for real-time sorting.
 
-xxx image here
-
 ## Data sources and AI methods
 
 Data is sourced from public waste image datasets and field-collected samples. A simple convolutional neural network is used for image classification.
